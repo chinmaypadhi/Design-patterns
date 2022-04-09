@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\Design Patterns\Template design pattern\Template design pattern\bin\Debug\Template design pattern.exe.config
+C:\Users\Asus\Desktop\Design Patterns\Template design pattern\Template design pattern\bin\Debug\Template design pattern.exe
+C:\Users\Asus\Desktop\Design Patterns\Template design pattern\Template design pattern\bin\Debug\Template design pattern.pdb
+C:\Users\Asus\Desktop\Design Patterns\Template design pattern\Template design pattern\obj\Debug\Template design pattern.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Design Patterns\Template design pattern\Template design pattern\obj\Debug\Template design pattern.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Design Patterns\Template design pattern\Template design pattern\obj\Debug\Template design pattern.exe
+C:\Users\Asus\Desktop\Design Patterns\Template design pattern\Template design pattern\obj\Debug\Template design pattern.pdb

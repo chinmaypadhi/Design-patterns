@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Design Patterns\Design Pattern\Design Pattern\bin\Debug\Design Pattern.exe.config
+C:\Users\Asus\Desktop\Design Patterns\Design Pattern\Design Pattern\bin\Debug\Design Pattern.exe
+C:\Users\Asus\Desktop\Design Patterns\Design Pattern\Design Pattern\bin\Debug\Design Pattern.pdb
+C:\Users\Asus\Desktop\Design Patterns\Design Pattern\Design Pattern\obj\Debug\singlonetone pattern.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Design Patterns\Design Pattern\Design Pattern\obj\Debug\singlonetone pattern.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Design Patterns\Design Pattern\Design Pattern\obj\Debug\Design Pattern.exe
+C:\Users\Asus\Desktop\Design Patterns\Design Pattern\Design Pattern\obj\Debug\Design Pattern.pdb
+C:\Users\Asus\Desktop\Design Patterns\Singleton Design Pattern\Design Pattern\bin\Debug\Design Pattern.exe.config
+C:\Users\Asus\Desktop\Design Patterns\Singleton Design Pattern\Design Pattern\bin\Debug\Design Pattern.exe
+C:\Users\Asus\Desktop\Design Patterns\Singleton Design Pattern\Design Pattern\bin\Debug\Design Pattern.pdb
+C:\Users\Asus\Desktop\Design Patterns\Singleton Design Pattern\Design Pattern\obj\Debug\singlonetone pattern.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Design Patterns\Singleton Design Pattern\Design Pattern\obj\Debug\singlonetone pattern.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Design Patterns\Singleton Design Pattern\Design Pattern\obj\Debug\Design Pattern.exe
+C:\Users\Asus\Desktop\Design Patterns\Singleton Design Pattern\Design Pattern\obj\Debug\Design Pattern.pdb
